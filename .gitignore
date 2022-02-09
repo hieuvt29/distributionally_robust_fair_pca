@@ -2,3 +2,5 @@
 *exp_results*
 *images*
 *logs*
+*.pyc
+*__pycache__*
