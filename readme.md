@@ -1,4 +1,4 @@
-## Distributionally Robust Fair Principal Components via Geodesic Descents
+## [Distributionally Robust Fair Principal Components via Geodesic Descents](https://arxiv.org/abs/2202.03071)
 
 
 ### Reference
